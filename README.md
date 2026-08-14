@@ -1,20 +1,32 @@
 # dynasty-privacy
 
-Public privacy policy for **Dynasty Hockey**, hosted via GitHub Pages.
+Public Privacy Policy, Terms of Service, and Support pages for **Dynasty Hockey**, hosted via GitHub Pages.
 
-## Live site
+Developer / Publisher: **Brad Cook**
 
-After GitHub Pages is enabled on the `main` branch, the policy is available at:
+## Live URLs
 
-**https://bradcook1985.github.io/dynasty-privacy/**
+| Page | URL |
+|------|-----|
+| Privacy Policy | https://bradcook1985.github.io/dynasty-privacy/privacy.html |
+| Terms of Service | https://bradcook1985.github.io/dynasty-privacy/terms.html |
+| Support | https://bradcook1985.github.io/dynasty-privacy/support.html |
+| Delete Account | https://bradcook1985.github.io/dynasty-privacy/delete-account.html |
 
-Use this URL in App Store Connect as the Privacy Policy link.
+The site root (`https://bradcook1985.github.io/dynasty-privacy/`) also serves the Privacy Policy.
+
+Use the Privacy, Terms, and Support URLs in App Store Connect.
 
 ## Contents
 
 | File | Purpose |
 |------|---------|
-| `index.html` | Responsive privacy policy page (dark theme, Dynasty gold accents) |
+| `index.html` | Privacy Policy (existing Pages root URL) |
+| `privacy.html` | Privacy Policy |
+| `terms.html` | Terms of Service |
+| `support.html` | Support |
+| `delete-account.html` | Account deletion instructions |
+| `styles.css` | Shared mobile-readable styles |
 
 ## Local preview
 
@@ -22,4 +34,4 @@ Open `index.html` in a browser, or serve the folder with any static file server.
 
 ## Maintainer
 
-Brad Cook Apps — [bradcookpga@gmail.com](mailto:bradcookpga@gmail.com)
+Brad Cook
